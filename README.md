@@ -16,7 +16,7 @@ I'm passionate about:
 
 ### **📌 Profile**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-499a61378/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-499a61378/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shootle48)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thepparit.intha@gmail.com)
 
