@@ -1,8 +1,10 @@
 # **Hello 👋**
 
 I'm **Theprit Intharapraphan**. Folks call me **Big**.
+
 🎓 Final-year student in **Computer Scien** at **Khon Kaen University**,
 graduating **DEC 2026** — and ready to hit the ground running on day one.
+
 💼 **Open to work and working Develiry part-time job**
 
 I'm passionate about:
@@ -102,7 +104,7 @@ I'm passionate about:
 
 ### **🖥️ Operating Systems**
 
-![Fedora](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -118,7 +120,6 @@ I'm passionate about:
 ##### IDE & Editor
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-!
 
 ##### API Testing
 
