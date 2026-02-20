@@ -27,7 +27,7 @@ I'm passionate about:
 ### **🌏 Languages**
 
 ![Thai](https://img.shields.io/badge/Thai-Native-00599C.svg?style=for-the-badge&logo=google-translate&logoColor=white)
-![English](https://img.shields.io/badge/English-B2-00599C.svg?style=for-the-badge&logo=google-translate&logoColor=white)
+![English](https://img.shields.io/badge/English-A1-00599C.svg?style=for-the-badge&logo=google-translate&logoColor=white)
 
 ---
 
