@@ -134,26 +134,6 @@ I'm passionate about:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 
----
-
-## **🎮 Hobbies & Interests**
-
-##### 🎮 Games
-
-[![[Game 1]](https://img.shields.io/badge/[Game_Name]-[HEX_COLOR]?style=for-the-badge&logo=[logo]&logoColor=white)](#)
-[![[Game 2]](https://img.shields.io/badge/[Game_Name]-[HEX_COLOR]?style=for-the-badge&logo=[logo]&logoColor=white)](#)
-<!-- หา badge เพิ่มได้ที่ https://simpleicons.org -->
-
-##### 🎵 Music
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-##### 🏃 Others
-
-- **🏋️ [Gym / Running / Body Weight]**
-- **📚 [Reading / Manga / Anime]**
-
----
 
 ## **📊 GitHub Stats**
 
@@ -164,3 +144,29 @@ I'm passionate about:
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shootle48&color=grey&style=for-the-badge)
+
+<details>
+ <summary><strong>🎮 Hobbies & Interests</strong></summary>
+
+## **🎮 Hobbies & Interests**
+
+- **Exploring cybersecurity & ethical hacking** 🔐
+
+##### 🎵 Rhythm Games / VSRG
+[![osu!](https://img.shields.io/badge/osu!-E96AA5?style=for-the-badge&logo=osu!&logoColor=white)](https://osu.ppy.sh/users/7892722 (C4P741N))[![Sound Voltex](https://img.shields.io/badge/Sound%20Voltex-AAAAAA?style=for-the-badge&logoColor=black)](# (C4P741N))[![beatmania IIDX](https://img.shields.io/badge/beatmania%20IIDX-000000?style=for-the-badge&logoColor=black)](# (DJ NAME: CPT))[![Muse Dash](https://img.shields.io/badge/Muse%20Dash-F6DD26?style=for-the-badge&logoColor=black)](# (C4P741N))
+
+##### 🔫 FPS / Tactical Shooters
+[![Valorant](https://img.shields.io/badge/Valorant-E64D53?style=for-the-badge&logo=valorant&logoColor=white)](# (C4P741N#3625))[![CS2](https://img.shields.io/badge/CS2-EB8E24?style=for-the-badge&logo=counter-strike&logoColor=white)](https://steamcommunity.com/profiles/76561198209716541 (C4P741N))[![Strinova](https://img.shields.io/badge/Strinova-E8652B?style=for-the-badge&logo=strinova&logoColor=white)](# (5478807))[![Battlefield 1](https://img.shields.io/badge/Battlefield%201-003545?style=for-the-badge&logo=ea&logoColor=white)](# (CPT.CAPTAIN))[![Delta Force](https://img.shields.io/badge/Delta%20Force-75ED9B?style=for-the-badge&logoColor=white)](https://steamcommunity.com/profiles/76561198209716541 (18068777186063200156))
+
+##### 🎯 **Battle Royale**  
+[![PUBG](https://img.shields.io/badge/PUBG-000000?style=for-the-badge&logo=pubg&logoColor=white)](https://steamcommunity.com/profiles/76561198209716541 (C4P741N))[![Blood Strike](https://img.shields.io/badge/Blood%20Strike-AAAAAA?style=for-the-badge&logo=battlefield&logoColor=white)](# (588174715207))[![Farlight 84](https://img.shields.io/badge/Farlight%2084-CDE66B?style=for-the-badge&logoColor=white)](# (43721455))[![Fortnite](https://img.shields.io/badge/Fortnite-4A90E2?style=for-the-badge&logo=fortnite&logoColor=white)](# (C4P741NTH))
+
+##### 🖱️ **MOBA**
+[![Honor of Kings](https://img.shields.io/badge/Honor%20of%20Kings-DAA520?style=for-the-badge&logo=honorofkings&logoColor=white)](# (LPK481))[![RoV](https://img.shields.io/badge/RoV%20(Arena%20of%20Valor)-9400D3?style=for-the-badge&logo=arenaofvalor&logoColor=white)](# (C4P741N))[![League of Legends](https://img.shields.io/badge/League%20of%20Legends-0A1428?style=for-the-badge&logo=league-of-legends&logoColor=yellow)](## "C4P741N#3625")[![Teamfight Tactics](https://img.shields.io/badge/Teamfight%20Tactics-1D4F91?style=for-the-badge&logo=teamfight-tactics&logoColor=white)](## "C4P741N#3625")
+
+
+##### **🎵 Music**
+[![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white)](https://listen.tidal.com/user/199905241 (C4P741N))[![ListenBrainz](https://img.shields.io/badge/ListenBrainz-0000FF?style=for-the-badge&logo=musicbrainz&logoColor=orange)](https://listenbrainz.org/user/c4p741nth/ (C4P741N))[![Bandcamp](https://img.shields.io/badge/Bandcamp-629BAB?style=for-the-badge&logo=bandcamp&logoColor=white)](https://bandcamp.com/c4p741nth (C4P741N))
+
+</details>
+
