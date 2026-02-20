@@ -1,113 +1,150 @@
-<div align="center">
+# **Hello 👋**
 
-<!-- ===== HEADER ===== -->
-# Hi there, I'm [Your Name] 👋
+I'm **[Your Full Name]**. You can call me **[Nickname]**.
 
-<!-- ชื่อพิมพ์เล่น หรือ Quote ส่วนตัว -->
-> *"[Your favorite quote or tagline here]"*
+I'm a **[Your Role]** at **[Company / University]** in **[City, Country].**
 
-<br/>
+💼 **[Current status e.g. Open to work / Student / Working]**
 
-<!-- ===== SOCIAL BADGES ===== -->
-<!-- แก้ username ให้ตรงกับช่องทางของคุณ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+I'm passionate about:
 
-</div>
+- **[Interest 1 e.g. Back End Web Development]**
+- **[Interest 2 e.g. Network and Cyber Security]**
+- **[Interest 3 e.g. Cloud & Infrastructure]**
+- **[Interest 4 e.g. Open Source Contribution]**
 
 ---
 
-## 🙋 About Me
+### **📌 Profile**
 
-<!-- แนะนำตัวเองสั้นๆ 3-4 บรรทัด -->
-- 🎓 [Your education / current role]
-- 🌍 Based in [Your city / country]
-- 🚀 Currently working on **[Project or goal]**
-- 📚 Always learning something new
+<!-- แก้ link และ username ให้ตรงกับตัวเอง -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
-## 🎮 Hobbies & Interests
+### **🌏 Languages**
 
-<!-- เพิ่ม/ลบ emoji ตามที่คุณชอบ -->
-- 🎵 [e.g., Listening to music / Playing guitar]
-- 📖 [e.g., Reading tech blogs / Manga]
-- 🎮 [e.g., Gaming / Board games]
-- 🏋️ [e.g., Gym / Running / Hiking]
-- ✈️ [e.g., Traveling / Photography]
+![Thai](https://img.shields.io/badge/Thai-Native-00599C.svg?style=for-the-badge&logo=google-translate&logoColor=white)
+![English](https://img.shields.io/badge/English-B2-00599C.svg?style=for-the-badge&logo=google-translate&logoColor=white)
+<!-- เพิ่มภาษาอื่น เช่น Japanese, Chinese ฯลฯ -->
 
 ---
 
-## 🛠️ Skills & Technologies
+### **💻 Programming Languages**
 
-<!-- ===== LANGUAGES ===== -->
-### 💬 Languages
-<!-- แก้หรือเพิ่ม badge ได้ที่: https://github.com/Ileriayo/markdown-badges -->
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-<!-- เพิ่มภาษาที่ใช้ตามใจชอบ -->
-
-<!-- ===== FRONTEND ===== -->
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-<!-- เพิ่ม/ลบตามที่คุณใช้จริง -->
-
-<!-- ===== BACKEND ===== -->
-### ⚙️ Backend & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-<!-- เพิ่ม/ลบตามที่คุณใช้จริง -->
-
-<!-- ===== CLOUD ===== -->
-### ☁️ Cloud & Databases
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-<!-- เพิ่ม/ลบตามที่คุณใช้จริง -->
+<!-- เพิ่ม/ลบตามที่คุณใช้จริง หา badge เพิ่มเติมได้ที่ https://github.com/Ileriayo/markdown-badges -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3659E4?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### **🎨 Frontend**
 
-<div align="center">
-
-<!-- แก้ YOUR_GITHUB_USERNAME ทุก 3 จุดด้านล่าง -->
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" />
-
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+### **⚙️ Backend & Frameworks**
 
-<!-- ปักหมุด Repo ที่ภูมิใจที่สุด (ทำใน GitHub UI ได้เลย หรือใส่ link ตรงนี้ก็ได้) -->
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🚀 Project Name](https://github.com/YOUR_USERNAME/repo) | Short description of what it does | `Python` `Docker` |
-| [🎨 Project Name](https://github.com/YOUR_USERNAME/repo) | Short description of what it does | `React` `TypeScript` |
-| [🛠️ Project Name](https://github.com/YOUR_USERNAME/repo) | Short description of what it does | `Go` `PostgreSQL` |
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<!-- เพิ่ม FastAPI, Spring Boot, Laravel ฯลฯ -->
 
 ---
 
-<div align="center">
+### **🗄️ Databases**
 
-<!-- Profile view counter (optional) -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=grey&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
-*Thanks for visiting! Feel free to reach out 🙌*
+---
 
-</div>
+### **☁️ Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+### **🖥️ Operating Systems**
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+---
+
+### **🛠️ Tools & Software**
+
+##### Version Control
+
+![Git](https://img.shields.io/badge/Git-E64E31?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181616?style=for-the-badge&logo=github&logoColor=white)
+
+##### IDE & Editor
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<!-- เพิ่ม IntelliJ, Neovim ฯลฯ -->
+
+##### API Testing
+
+![Postman](https://img.shields.io/badge/Postman-E86634?style=for-the-badge&logo=postman&logoColor=white)
+
+##### Design & UI/UX
+
+![Figma](https://img.shields.io/badge/Figma-2E3139?style=for-the-badge&logo=figma&logoColor=white)
+
+##### Productivity
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-E64822?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+---
+
+## **🎮 Hobbies & Interests**
+
+##### 🎮 Games
+<!-- ใส่เกมที่ชอบเล่น พร้อมใส่ link profile ในเกมได้เลย -->
+
+[![Valorant](https://img.shields.io/badge/Valorant-E64D53?style=for-the-badge&logo=valorant&logoColor=white)](#)
+[![CS2](https://img.shields.io/badge/CS2-EB8E24?style=for-the-badge&logo=counter-strike&logoColor=white)](#)
+[![League of Legends](https://img.shields.io/badge/League%20of%20Legends-0A1428?style=for-the-badge&logo=league-of-legends&logoColor=yellow)](#)
+<!-- เพิ่มเกมอื่นๆ ตามชอบ -->
+
+##### 🎵 Music
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](#)
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](#)
+<!-- เพิ่ม Apple Music, Tidal ฯลฯ -->
+
+##### 🏃 Others
+
+<!-- เช่น ออกกำลังกาย, อ่านหนังสือ, ท่องเที่ยว -->
+- **[Hobby 1 e.g. 🏋️ Gym / Running]**
+- **[Hobby 2 e.g. 📚 Reading / Manga]**
+- **[Hobby 3 e.g. ✈️ Traveling]**
+
+---
+
+## **📊 GitHub Stats**
+
+<!-- แก้ YOUR_GITHUB_USERNAME ทุกจุด -->
+[![GitHub Stats](https://github-readme-stats-delta-dun-10.vercel.app/api?show_icons=true&username=YOUR_GITHUB_USERNAME&theme=dark&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_contributions=true)](#)
+[![Most Used Languages](https://github-readme-stats-delta-dun-10.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)](#)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=grey&style=for-the-badge)
