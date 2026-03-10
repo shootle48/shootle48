@@ -96,9 +96,6 @@ I'm passionate about:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
----
-##### Certifications / Learning Path
-[![AWS Security](https://img.shields.io/badge/AWS_Security_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
 ---
 
