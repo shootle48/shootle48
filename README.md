@@ -62,6 +62,8 @@ I'm passionate about:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![AXIOS](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ---
 
@@ -80,12 +82,6 @@ I'm passionate about:
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![In Progress]
-
-##### Infrastructure as Code
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ##### Containers & Orchestration
 
@@ -118,6 +114,7 @@ I'm passionate about:
 ##### IDE & Editor
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ##### API Testing
 
@@ -126,6 +123,12 @@ I'm passionate about:
 ##### Design
 
 ![Figma](https://img.shields.io/badge/Figma-2E3139?style=for-the-badge&logo=figma&logoColor=white)
+
+##### Artificial Intelligence
+![CHATGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![CLAUDE](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GEMINI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 
 ##### Productivity
 
@@ -143,18 +146,13 @@ I'm passionate about:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shootle48&color=grey&style=for-the-badge)
 
-<details>
+<!-- <details>
  <summary><strong>🎮 Hobbies & Interests</strong></summary>
 
 ## **🎮 Hobbies & Interests**
 
-- **Exploring cybersecurity & ethical hacking** 🔐
-
-##### 🎵 Rhythm Games / VSRG
-[![osu!](https://img.shields.io/badge/osu!-E96AA5?style=for-the-badge&logo=osu!&logoColor=white)](https://osu.ppy.sh/users/7892722 (C4P741N))[![Sound Voltex](https://img.shields.io/badge/Sound%20Voltex-AAAAAA?style=for-the-badge&logoColor=black)](# (C4P741N))[![beatmania IIDX](https://img.shields.io/badge/beatmania%20IIDX-000000?style=for-the-badge&logoColor=black)](# (DJ NAME: CPT))[![Muse Dash](https://img.shields.io/badge/Muse%20Dash-F6DD26?style=for-the-badge&logoColor=black)](# (C4P741N))
-
 ##### 🔫 FPS / Tactical Shooters
-[![Valorant](https://img.shields.io/badge/Valorant-E64D53?style=for-the-badge&logo=valorant&logoColor=white)](# (C4P741N#3625))[![CS2](https://img.shields.io/badge/CS2-EB8E24?style=for-the-badge&logo=counter-strike&logoColor=white)](https://steamcommunity.com/profiles/76561198209716541 (C4P741N))[![Strinova](https://img.shields.io/badge/Strinova-E8652B?style=for-the-badge&logo=strinova&logoColor=white)](# (5478807))[![Battlefield 1](https://img.shields.io/badge/Battlefield%201-003545?style=for-the-badge&logo=ea&logoColor=white)](# (CPT.CAPTAIN))[![Delta Force](https://img.shields.io/badge/Delta%20Force-75ED9B?style=for-the-badge&logoColor=white)](https://steamcommunity.com/profiles/76561198209716541 (18068777186063200156))
+[![Valorant](https://img.shields.io/badge/Valorant-E64D53?style=for-the-badge&logo=valorant&logoColor=white)](# (C4P741N#3625))[![CS2](https://img.shields.io/badge/CS2-EB8E24?style=for-the-badge&logo=counter-strike&logoColor=white)](https://steamcommunity.com/profiles/76561198209716541 (C4P741N))(# (5478807))[![Battlefield 1](https://img.shields.io/badge/Battlefield%201-003545?style=for-the-badge&logo=ea&logoColor=white)](# (CPT.CAPTAIN))[![Delta Force](https://img.shields.io/badge/Delta%20Force-75ED9B?style=for-the-badge&logoColor=white)](https://steamcommunity.com/profiles/76561198209716541 (18068777186063200156))
 
 ##### 🎯 **Battle Royale**  
 [![PUBG](https://img.shields.io/badge/PUBG-000000?style=for-the-badge&logo=pubg&logoColor=white)](https://steamcommunity.com/profiles/76561198209716541 (C4P741N))[![Blood Strike](https://img.shields.io/badge/Blood%20Strike-AAAAAA?style=for-the-badge&logo=battlefield&logoColor=white)](# (588174715207))[![Farlight 84](https://img.shields.io/badge/Farlight%2084-CDE66B?style=for-the-badge&logoColor=white)](# (43721455))[![Fortnite](https://img.shields.io/badge/Fortnite-4A90E2?style=for-the-badge&logo=fortnite&logoColor=white)](# (C4P741NTH))
@@ -166,5 +164,5 @@ I'm passionate about:
 ##### **🎵 Music**
 [![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white)](https://listen.tidal.com/user/199905241 (C4P741N))[![ListenBrainz](https://img.shields.io/badge/ListenBrainz-0000FF?style=for-the-badge&logo=musicbrainz&logoColor=orange)](https://listenbrainz.org/user/c4p741nth/ (C4P741N))[![Bandcamp](https://img.shields.io/badge/Bandcamp-629BAB?style=for-the-badge&logo=bandcamp&logoColor=white)](https://bandcamp.com/c4p741nth (C4P741N))
 
-</details>
+</details> -->
 
