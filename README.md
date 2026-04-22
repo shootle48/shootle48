@@ -69,7 +69,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **Station AI Inspector** *(industry)* | AI-assisted inspection platform — originally Pipe Inspector, productized by BeagleWorks with OEP + OIP split | Python · CV · Cloud |
+| **Station AI Inspector** *(industry)* | AI-assisted inspection platform — originally Pipe Inspector, productized  | Python · CV · Cloud |
 | [**Lucky-Draw-Front-end**](https://github.com/shootle48/Lucky-Draw-Front-end) | Modern online lucky-draw system for organizations — room management, Excel/CSV import, winner dashboard | Nuxt 3 · Vue · Pinia · Tailwind |
 | [**web-emulator-demo**](https://github.com/shootle48/web-emulator-demo) | Browser-based NES emulator running classic games natively at 60 FPS | React 19 · TypeScript · Vite · jsnes |
 
