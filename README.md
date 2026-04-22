@@ -18,8 +18,8 @@
 ### About Me
 
 - 🎓 Final-year **Computer Science** student at **Khon Kaen University** (graduating Dec 2026)
-- 🔬 **Research Engineer** working on Computer Vision
-- 📋 **Business Analyst** on the IMPACT Partnership Platform (IPP)
+- 🔬 **Research Engineer** working on Praram Nine Technology Co., Ltd.
+- 📋 **Business Analyst** on Praram Nine Technology Co., Ltd.
 - 🛠️ Previously built **Pipe Inspector / Station AI Inspector** — an AI-assisted industrial inspection product
 - 🌱 Currently sharpening skills in production ML systems, cloud architecture, and product analysis
 - 🎮 Off-work: reading books & playing games
