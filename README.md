@@ -18,10 +18,11 @@
 ### About Me
 
 - 🎓 Final-year **Computer Science** student at **Khon Kaen University** (graduating Dec 2026)
-- 🔬 **Research Engineer** working on Praram Nine Technology Co., Ltd.
-- 📋 **Business Analyst** on Praram Nine Technology Co., Ltd.
+- 🔬 **Research Engineer** at **Praram Nine Technology Co., Ltd.**
+- 📋 **Business Analyst** at **Praram Nine Technology Co., Ltd.**
 - 🛠️ Previously built **Pipe Inspector / Station AI Inspector** — an AI-assisted industrial inspection product
 - 🌱 Currently sharpening skills in production ML systems, cloud architecture, and product analysis
+- 🤖 Exploring **Hermes Agent** and agentic AI frameworks for autonomous workflows
 - 🎮 Off-work: reading books & playing games
 
 ---
@@ -63,13 +64,20 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
+**AI / Agentic Tooling**
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-6E40C9?style=flat-square&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
+</p>
+
 ---
 
 ### Featured Work
 
 | Project | Description | Stack |
 |---|---|---|
-| **Station AI Inspector** *(industry)* | AI-assisted inspection platform — originally Pipe Inspector, productized  | Python · CV · Cloud |
+| **Station AI Inspector** *(industry)* | AI-assisted inspection platform — originally Pipe Inspector, productized | Python · CV · Cloud |
 | [**Lucky-Draw-Front-end**](https://github.com/shootle48/Lucky-Draw-Front-end) | Modern online lucky-draw system for organizations — room management, Excel/CSV import, winner dashboard | Nuxt 3 · Vue · Pinia · Tailwind |
 | [**web-emulator-demo**](https://github.com/shootle48/web-emulator-demo) | Browser-based NES emulator running classic games natively at 60 FPS | React 19 · TypeScript · Vite · jsnes |
 
@@ -80,6 +88,7 @@
 - 🔭 Shipping CV models from research notebook → production pipeline
 - 📊 Translating stakeholder needs into clear user stories & acceptance criteria (BA track)
 - 🧪 Experimenting with AI-assisted automation (Claude skills, agentic workflows)
+- 🤖 Learning & prototyping with **Hermes Agent** — exploring autonomous task orchestration and tool-use patterns
 
 ---
 
